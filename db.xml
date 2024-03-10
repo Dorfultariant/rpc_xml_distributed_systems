@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+    <topic name="Animal Things">
+        <note name="Cats are calmer than dogs">
+            <text>
+            Cats ignore you unless they want something from you, dogs are trying to activate you constantly. Dogs have too much energy for my taste.
+            </text>
+            <timestamp>
+            09/03/2024  14:03:04
+            </timestamp>
+        </note>
+        <note name="Elephant memory">
+            <text>Elephants have great memory, and it allows them to remember where their mates died</text>
+            <timestamp>09/03/2024 13:30:53</timestamp>
+        </note>
+        <note name="Tigers are cute">
+            <text>But they are dangerous as many other cat variants</text>
+            <timestamp>10/03/2024 10:14:51</timestamp>
+        </note>
+    </topic>
+</data>
